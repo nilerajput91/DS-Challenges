@@ -1,7 +1,5 @@
 # DS-Challenges
 
-Here's an example README for a repository containing data structure (DS) challenges questions:
-
 Data Structure Challenges
 This repository contains a collection of data structure challenges and their solutions in [language]. These challenges are useful for practicing data structure concepts and improving problem-solving skills.
 
