@@ -38,7 +38,7 @@ func main() {
 	n := 7
 	c := 'B'
 
-	fmt.Printf("occurnaces of char :%d\n", fun(s, k, n, byte(c)))
+	fmt.Printf("occurances of char :%d\n", fun(s, k, n, byte(c)))
 
 }
 
@@ -51,7 +51,7 @@ func fun(s string, k, n int, c byte) int {
 
 	repeat := n / strLen
 
-	// cal the remaing charadter the full repetation
+	// cal the remaing character the full repetation
 
 	remain := n % strLen
 
